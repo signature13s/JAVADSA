@@ -11,5 +11,6 @@ public class btd {
      c++;
     }
     System.out.println(dec);
+    Sc.close();
   }  
 }

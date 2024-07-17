@@ -32,5 +32,6 @@ public class dtb {
             dec /= 2;
         }
         System.out.println(bin);
+        Sc.close();
     }
 }
